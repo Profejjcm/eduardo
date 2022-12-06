@@ -21,6 +21,7 @@ public class OrdenacionBurbuja {
                     aux = vector[j];
                     vector[j] = vector[i];
                     vector[i] = aux;
+                    
                 }
             }
         }
